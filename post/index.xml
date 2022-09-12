@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on king</title>
-    <link>https://wuyixin2581.github.io/post/</link>
-    <description>Recent content in Posts on king</description>
+    <title>Posts on 吴埸鑫</title>
+    <link>https://github.com/wuyixin2581/wuyixin2581.github.io/post/</link>
+    <description>Recent content in Posts on 吴埸鑫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Sep 2022 12:05:42 +0800</lastBuildDate><atom:link href="https://wuyixin2581.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 16:20:18 +0800</lastBuildDate><atom:link href="https://github.com/wuyixin2581/wuyixin2581.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soft</title>
+      <link>https://github.com/wuyixin2581/wuyixin2581.github.io/post/soft/</link>
+      <pubDate>Mon, 12 Sep 2022 16:20:18 +0800</pubDate>
+      
+      <guid>https://github.com/wuyixin2581/wuyixin2581.github.io/post/soft/</guid>
+      <description>力扣题单: https://leetcode.cn/circle/article/48kq9d/
+黑马程序员JAVA学习路线：https://www.bilibili.com/read/cv9965357?spm_id_from=333.788.b_636f6d6d656e74.7
+极客教程 前端后端框架基础学习网站
+segmentfaul 国内版技术问答交流平台 快速入门前端工具
+https://mvnrepository.com/ java的jar包下载地址
+https://lightly.teamcode.com/dashboard 国产编程软件
+http://c.biancheng.net/c/ c语言 python c++等编程语言学习网站
+！！！！！！考试宝 全方位的刷题网站。。。。。。。。
+https://www.kuke99.com/ucenter/exam_detail/id/2234 库克网校 英语刷题网站
+https://www.zikaosw.cn/zsbks.html 统考自考网 专升本刷题网站
+https://wenku.baidu.com/view/d302d3cde309581b6bd97f19227916888486b93c.html 数据库模拟试卷及答案
+https://visualgo.net/zh 可视化算法学习网站 动画学习</description>
+    </item>
+    
     <item>
       <title>Blog</title>
-      <link>https://wuyixin2581.github.io/post/blog/</link>
+      <link>https://github.com/wuyixin2581/wuyixin2581.github.io/post/blog/</link>
       <pubDate>Sun, 11 Sep 2022 12:05:42 +0800</pubDate>
       
-      <guid>https://wuyixin2581.github.io/post/blog/</guid>
+      <guid>https://github.com/wuyixin2581/wuyixin2581.github.io/post/blog/</guid>
       <description>1.W3C 数据库 ，Java， 安卓等相关教学。
 2.行行查 相关知识数据的集中之地。
 3.iconfont 阿里图标网。
