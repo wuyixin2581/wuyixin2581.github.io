@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>king</title>
+    <link>https://wuyixin2581.github.io/</link>
+    <description>Recent content on king</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 12:05:42 +0800</lastBuildDate><atom:link href="https://wuyixin2581.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://wuyixin2581.github.io/post/blog/</link>
+      <pubDate>Sun, 11 Sep 2022 12:05:42 +0800</pubDate>
+      
+      <guid>https://wuyixin2581.github.io/post/blog/</guid>
+      <description>1.W3C 数据库 ，Java， 安卓等相关教学。
+2.行行查 相关知识数据的集中之地。
+3.iconfont 阿里图标网。
+4.聚合数据
+5.帛马 思维导图模板
+6.创客贴 手机海报、简历、视频封面、头像
+7.万有导航 全网数据资源
+8.译学管&amp;amp;convertio 高校和业界的视频演讲 后者万能的转换网站。
+9.墨刀 页面设计、模板设计
+10.花瓣 图片剪辑 视频设计
+11.Adobe XD 自动标注，切图软件
+12.亿图图示 APP页面设计 项目框架等。
+13.IC千库图 广告设计、背景抠图、GIF动图。
+14.凡科建站 大量免费网站模板
+15.万方数据库 可查询大量的企业数据文献和专利著作
+16.菜鸟教程
+17.https://www.educoder.net/ 头歌
+17.中国版权保护中心官网 申请专利
+18.中国人事考试网 ： 详细的考证网站。
+19.中国教育考试网： 国家教育考试、社会证书考试、海外考试等。
+20.中国志愿网、中华支教与助学信息网、大学生志愿服务西部计划。
+21.Typora 文件和笔记整理，具有设计多级标题的功能。
+22.狗p不通生成器 论文内容，超全模板。
+runoob 各种Vue、js框架的基础知识
+W3C 前后端基础知识的汇总
+stackoverflow 程序员交流平台
+26.ip.taobao.com/ 淘宝ip库
+5.个程序员常用小众网站
+https://programming-idioms.org/about#about-block-cheatsheets https://www.libhunt.com https://www.thoughtworks.com/cn/radar https://tech.meituan.com 美团数据信息 http://mysql.taobao.org/monthly/ 淘宝数据库内核月报 </description>
+    </item>
+    
+  </channel>
+</rss>
