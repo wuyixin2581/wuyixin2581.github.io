@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 吴埸鑫</title>
-    <link>https://github.com/wuyixin2581/wuyixin2581.github.io/categories/</link>
+    <link>https://wuyixin2581.github.io/categories/</link>
     <description>Recent content in Categories on 吴埸鑫</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/wuyixin2581/wuyixin2581.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://wuyixin2581.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

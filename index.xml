@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>吴埸鑫</title>
-    <link>https://github.com/wuyixin2581/wuyixin2581.github.io/</link>
+    <link>https://wuyixin2581.github.io/</link>
     <description>Recent content on 吴埸鑫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Sep 2022 16:20:18 +0800</lastBuildDate><atom:link href="https://github.com/wuyixin2581/wuyixin2581.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 16:20:18 +0800</lastBuildDate><atom:link href="https://wuyixin2581.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soft</title>
-      <link>https://github.com/wuyixin2581/wuyixin2581.github.io/post/soft/</link>
+      <link>https://wuyixin2581.github.io/post/soft/</link>
       <pubDate>Mon, 12 Sep 2022 16:20:18 +0800</pubDate>
       
-      <guid>https://github.com/wuyixin2581/wuyixin2581.github.io/post/soft/</guid>
+      <guid>https://wuyixin2581.github.io/post/soft/</guid>
       <description>力扣题单: https://leetcode.cn/circle/article/48kq9d/
 黑马程序员JAVA学习路线：https://www.bilibili.com/read/cv9965357?spm_id_from=333.788.b_636f6d6d656e74.7
 极客教程 前端后端框架基础学习网站
@@ -29,10 +29,10 @@ https://visualgo.net/zh 可视化算法学习网站 动画学习</description>
     
     <item>
       <title>Blog</title>
-      <link>https://github.com/wuyixin2581/wuyixin2581.github.io/post/blog/</link>
+      <link>https://wuyixin2581.github.io/post/blog/</link>
       <pubDate>Sun, 11 Sep 2022 12:05:42 +0800</pubDate>
       
-      <guid>https://github.com/wuyixin2581/wuyixin2581.github.io/post/blog/</guid>
+      <guid>https://wuyixin2581.github.io/post/blog/</guid>
       <description>1.W3C 数据库 ，Java， 安卓等相关教学。
 2.行行查 相关知识数据的集中之地。
 3.iconfont 阿里图标网。
