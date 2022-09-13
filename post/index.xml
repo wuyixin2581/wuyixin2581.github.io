@@ -6,7 +6,36 @@
     <description>Recent content in Posts on 吴埸鑫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Sep 2022 16:20:18 +0800</lastBuildDate><atom:link href="https://wuyixin2581.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 14:23:09 +0800</lastBuildDate><atom:link href="https://wuyixin2581.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://wuyixin2581.github.io/post/markdown/</link>
+      <pubDate>Tue, 13 Sep 2022 14:23:09 +0800</pubDate>
+      
+      <guid>https://wuyixin2581.github.io/post/markdown/</guid>
+      <description>我展示的是第一级标题 我展示的是二级标题 你好 粗斜体
+___你好___斜体
+你好 Hello World! //粗体
+图书馆 //删除线标签
+下划线 //下划线
+//无序列表使用+ - * 表示
+第一项 第二项 第三项 //有序列表使用数字加上.表示
+第一项 第二项 //列表嵌套
+第一项: 第一项的嵌套 第二项: 第二项的嵌套 // Markdown 区块引用
+区块引用 菜鸟教程 学的不仅是技术更是梦想
+第一层
+第一层嵌套
+第二层嵌套
+// 列表使用区块
+第一项 菜鸟教程 学的不仅是技术更是梦想
+1 Markdown代码 printf() 函数
+//使用一个制表符 &amp;lt;?php echo &amp;lsquo;RUNNOOB&amp;rsquo;; function test(){ echo &amp;rsquo;test&amp;rsquo; }
+//可以使用```包裹一段代码,并指定一种语言
+$(document).ready(function({ alert(&amp;#39;RUNNOOB&amp;#39;); }); 1 Markdown链接 连接名称 或者 &amp;lt;链接地址&amp;gt;
+这是第一个链接 百度 这是第一个链接百度https://www.baidu.com
+//通过变量来设置一个链接，变量赋值在文档末尾进行 这个链接用runoob作为网址变量 [Runoob][runoob] [runoob]: http://www.</description>
+    </item>
+    
     <item>
       <title>Soft</title>
       <link>https://wuyixin2581.github.io/post/soft/</link>
