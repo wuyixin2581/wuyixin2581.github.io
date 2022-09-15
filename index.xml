@@ -6,7 +6,16 @@
     <description>Recent content on 吴埸鑫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2022 14:23:09 +0800</lastBuildDate><atom:link href="https://wuyixin2581.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 16:03:48 +0800</lastBuildDate><atom:link href="https://wuyixin2581.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://wuyixin2581.github.io/post/test/</link>
+      <pubDate>Thu, 15 Sep 2022 16:03:48 +0800</pubDate>
+      
+      <guid>https://wuyixin2581.github.io/post/test/</guid>
+      <description>欢迎来到测试文档 hugo &amp;ndash;theme=m10c &amp;ndash;baseUrl=&amp;ldquo;https://wuyixin2581.github.io/&amp;quot; &amp;ndash;buildDrafts</description>
+    </item>
+    
     <item>
       <title>Markdown</title>
       <link>https://wuyixin2581.github.io/post/markdown/</link>
