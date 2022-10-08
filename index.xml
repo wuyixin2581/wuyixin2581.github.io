@@ -102,5 +102,82 @@ stackoverflow 程序员交流平台
 https://programming-idioms.org/about#about-block-cheatsheets https://www.libhunt.com https://www.thoughtworks.com/cn/radar https://tech.meituan.com 美团数据信息 http://mysql.taobao.org/monthly/ 淘宝数据库内核月报 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://wuyixin2581.github.io/post/api%E6%8E%A5%E5%8F%A3%E5%A4%A7%E5%85%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wuyixin2581.github.io/post/api%E6%8E%A5%E5%8F%A3%E5%A4%A7%E5%85%A8/</guid>
+      <description>手机号码归属地API接口：
+https://www.juhe.cn/docs/api/id/11
+历史上的今天API接口：
+https://www.juhe.cn/docs/api/id/63
+股票数据API接口：
+https://www.juhe.cn/docs/api/id/21
+全国WIFI接口：
+https://www.juhe.cn/docs/api/id/18
+星座运势接口：
+https://www.juhe.cn/docs/api/id/58
+黄金数据接口：
+https://www.juhe.cn/docs/api/id/29
+语音识别接口：
+https://www.juhe.cn/docs/api/id/134
+周公解梦接口：
+https://www.juhe.cn/docs/api/id/64
+天气预报API接口：
+https://www.juhe.cn/docs/api/id/73
+身份证查询API接口：
+https://www.juhe.cn/docs/api/id/38
+笑话大全API接口：
+https://www.juhe.cn/docs/api/id/95
+邮编查询接口：
+https://www.juhe.cn/docs/api/id/66
+老黄历接口：
+https://www.juhe.cn/docs/api/id/65
+网站安全检测接口：
+https://www.juhe.cn/docs/api/id/19
+手机固话来电显示接口：
+https://www.juhe.cn/docs/api/id/72
+基金财务数据接口：
+https://www.juhe.cn/docs/api/id/28
+成语词典接口：
+https://www.juhe.cn/docs/api/id/157
+新闻头条接口：
+https://www.juhe.cn/docs/api/id/235
+IP地址接口：
+https://www.juhe.cn/docs/api/id/1
+问答机器人接口：
+https://www.juhe.cn/docs/api/id/112
+汇率API接口：
+https://www.juhe.cn/docs/api/id/80
+电影票房接口：
+https://www.juhe.cn/docs/api/id/44
+万年历API接口：
+https://www.juhe.cn/docs/api/id/177
+NBA赛事接口：
+https://www.juhe.cn/docs/api/id/92
+IP地址查询
+http://apistore.baidu.com/apiworks/servicedetail/114.html
+频道新闻API_易源
+http://apistore.baidu.com/apiworks/servicedetail/688.html
+微信热门精选 ：
+http://apistore.baidu.com/apiworks/servicedetail/632.html
+天气查询
+http://apistore.baidu.com/apiworks/servicedetail/112.html
+中国和世界天气预报
+http://apistore.baidu.com/apiworks/servicedetail/478.html
+股票查询
+http://apistore.baidu.com/apiworks/servicedetail/115.html
+身份证查询：
+http://apistore.baidu.com/apiworks/servicedetail/113.html
+美女图片
+http://apistore.baidu.com/apiworks/servicedetail/720.html
+音乐搜索
+http://apistore.baidu.com/apiworks/servicedetail/1020.html
+图灵机器人
+http://apistore.baidu.com/apiworks/servicedetail/736.html
+汇率转换</description>
+    </item>
+    
   </channel>
 </rss>
